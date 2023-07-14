@@ -36,7 +36,7 @@
 
 ## 其他推薦的網站
 
-* 前助教 maochinn 系列
+* 歷屆助教 maochinn 系列
   * [FLTK](https://medium.com/maochinn/fltk%E7%AE%97%E6%98%AF%E8%A0%BB%E8%80%81%E7%9A%84%E4%B8%80%E5%80%8Bc-cf0c7924631a)
   * [FLTK Project Image Editing](https://medium.com/maochinn/fltk-project-image-editing-922e0d9b74b8)
   * [FLTK Project Maze](https://medium.com/maochinn/fltk-project-maze-338c2109989d)
@@ -45,7 +45,7 @@
   * [電腦圖學-Frame Buffer](https://medium.com/maochinn/%E9%9B%BB%E8%85%A6%E5%9C%96%E5%AD%B8-frame-buffer-c145d8c172bd)
   * [電腦圖學01-Transformation](https://medium.com/maochinn/%E9%9B%BB%E8%85%A6%E5%9C%96%E5%AD%B801-transformation-%E6%96%BD%E5%B7%A5%E4%B8%AD-ea46dedf01f9)
   * [FLTK Project Water Surface](https://medium.com/maochinn/fltk-project-water-surface-a811c9cfc3b)
-* 前學生 frakw
+* 歷屆學生 frakw
   * [台科電腦圖學導論Project 2: Maze Visibility and Rendering](https://hackmd.io/@frakw/ByBRenFdP)
 
 
@@ -53,12 +53,12 @@
 
 > 僅以個人經驗提供章節
 
-### OpenGL 3D 繪圖互動程式設計
+### OpenGL 3D 繪圖互動程式設計 - 朱宏國、姚智原、賴祐吉 著
 
 * Project 2
   * **第 2 章 數學基礎、相機與投影**，座標轉換參考 (迷宮從世界座標投影到螢幕上) 請看
 * Project 3
-  * **第 4-2 章 OpenGL 1.1相關函式庫與初始化**，繪圖部分建議可先使用 OpenGL 1，P4 再開始使用 OpenGL 4
+  * **第 4-2 章 OpenGL 1.1相關函式庫與初始化**，繪圖部分建議可先使用 OpenGL 1，P4 再開始使用 OpenGL 3 以後的版本
   * **第 17-4 章 軌道製作**
 * Project 4
   * **第 4 章 OpenGL 系統**
